@@ -16,6 +16,6 @@ A frozen-CLIP + trained fusion classifier for detecting hateful content in memes
 with built-in explainability (Attention Rollout for images, Gradient x Input for text).
 
 Built as a portfolio project exploring multimodal content-safety classification.
-See the full writeup and training notebooks at: [GitHub repo link here]
+See the full writeup and training notebooks at: https://github.com/Nikhil-sahotra/hateful-meme-classifier
 
 
